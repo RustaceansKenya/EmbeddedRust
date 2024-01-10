@@ -1,6 +1,9 @@
 ## EmbeddedRust
 Collaborate with other Rustaceans on crates in the embedded programming ecosystem.
 
+### Resources and Tutorials
+1. [Intro to Driver Development with Rust](https://github.com/RustaceansKenya/driver-development-book)
+
 #### Discussions
 Find all discussions as [https://github.com/RustaceansKenya/EmbeddedRust/discussions](https://github.com/RustaceansKenya/EmbeddedRust/discussions)
 
